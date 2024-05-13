@@ -1,0 +1,40 @@
+.{
+    padding:0%;
+    margin: 0%;
+}
+ main {color: blueviolet;
+font-size: 15px ;}
+
+.parrafo {
+    color: black
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.horarios {
+    font-family: 'Times New Roman', Times, serif ;
+    font-style: italic ;
+    font-size: 15px;
+}
+
+main{
+    width: 94% ;
+    border: 3px black solid;
+    border-radius: 4px;
+}
+i{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    }
+
+footer{
+    background-color: gray;
+    border-radius: 6px;
+    border: 4px dimgrey solid;
+    position: sticky;
+}
